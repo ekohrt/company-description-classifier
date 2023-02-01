@@ -4,3 +4,5 @@ Classifying companies into one of 41 industries based on a text description. Use
 Dataset is modified from [this](https://github.com/datahoarder/crunchbase-october-2013) 2013 dump of Crunchbase company info, which contained company name, industry category, and crunchbase permalink. Used the free Crunchbase API to scrape the short description for each company.
 
 Written in colab.
+
+<img src="/preview_image.png" width="500" height="100"/>
