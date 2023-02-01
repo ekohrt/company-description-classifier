@@ -5,4 +5,4 @@ Dataset is modified from [this](https://github.com/datahoarder/crunchbase-octobe
 
 Written in colab.
 
-<img src="/preview_img.png" width="500" height="100"/>
+<img src="/preview_img.png" width="750" height="100"/>
